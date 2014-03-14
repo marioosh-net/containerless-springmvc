@@ -8,7 +8,7 @@ Run Locally
 
 Run:
 
-    ./gradlew run
+    mvn exec:java
 
 Open:
 
